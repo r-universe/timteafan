@@ -1,5 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/timteafan/universe
 	shallow = true
 	branch = HEAD
+[submodule "dplyover"]
+	path = dplyover
+	url = https://github.com/timteafan/dplyover
+	shallow = true
+	registered = true
+[submodule "loopurrr"]
+	path = loopurrr
+	url = https://github.com/timteafan/loopurrr
+	shallow = true
+	registered = true
