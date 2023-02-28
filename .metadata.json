@@ -4,5 +4,8 @@
   },
   {
     "package": "loopurrr"
+  },
+  {
+    "package": "hugodownplus"
   }
 ]
