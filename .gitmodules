@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/timteafan/timteafan.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "dplyover"]
 	path = dplyover
 	url = https://github.com/timteafan/dplyover
-	shallow = true
-	registered = true
-[submodule "loopurrr"]
-	path = loopurrr
-	url = https://github.com/timteafan/loopurrr
-	shallow = true
-	registered = true
 [submodule "hugodownplus"]
 	path = hugodownplus
 	url = https://github.com/timteafan/hugodownplus
-	shallow = true
-	registered = true
+[submodule "loopurrr"]
+	path = loopurrr
+	url = https://github.com/timteafan/loopurrr
